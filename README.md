@@ -9,16 +9,13 @@
 </div>
 
 <h3 align="left">
-Welcome to my dotfiles repo, home to my first ever rice :3
+Arch-rice forked from LierB
 </h3>
 
-I've chosen to utilize the Hyprland tiling window manager as the heart of my personalized Linux environment. Pywal as the color-scheme generator adapts to any wallpaper, ensuring a harmonious visual experience throughout my setup making it simple to tailor the ambiance to match my current mood. 
-
-Feel free to explore my files and reach out to me with any questions or suggestions. Let's dive into the world of Linux customization together!
-
+Hyprland tiling window manager as the heart of the Linux environment. Pywal as the color-scheme generator (adapts to any wallpaper).
 
 ## Packages
-list of main programs, applications, tools and themes that I use for my rice
+list of main programs, applications, tools and themes that are used:
 | COMPONENT           | RESOURCE  
 | :---------          | :-------  
 | Window manager      | [hyprland](https://github.com/hyprwm/Hyprland)
@@ -42,52 +39,14 @@ list of main programs, applications, tools and themes that I use for my rice
 | Terminal clock      | [tty-clock](https://github.com/xorg62/tty-clock)
 | Terminal games      | [snake](https://github.com/PonasKovas/snake) & [2048](https://github.com/mevdschee/2048.c)
 
-<details style="margin-bottom: 20px;">
-</details>
 
-## Showcase
-
-This is how my rice could look like. The simple act of changing the wallpaper transforms the entire ambiance - thanks to pywal, my rice can evolve into a canvas of endless possibilities.
-
-Hope you enjoy it :3
-
+## Desktop Overview
 ### Penrose triangle forest
 <p align="center">
   <img src="./showcase/grid_penrose-triangle-forest.png" style="width: 100%;">
-</p>
-
-### Saltern study night
-<p align="center">
-  <img src="./showcase/grid_saltern-study-night.png" style="width: 100%;">
-</p>
-
-### Boho colorful pastel
-<p align="center">
-  <img src="./showcase/grid_boho-colorful-pastel.png" style="width: 100%;">
-</p>
-
-### Tropical leaves
-<p align="center">
-  <img src="./showcase/grid_tropical-leaves.png" style="width: 100%;">
 </p>
 
 ### Penrose triangle sky
 <p align="center">
   <img src="./showcase/grid_penrose-triangle-sky.png" style="width: 100%;">
 </p>
-
-### Moody flowers
-<p align="center">
-  <img src="./showcase/grid_moody-flowers.png" style="width: 100%;">
-</p>
-
-### Vibrant colors
-<p align="center">
-  <img src="./showcase/grid_vibrant-colors.png" style="width: 100%;">
-</p>
-
-## Installation
-
-See the [install guide](https://github.com/LierB/dotfiles/blob/master/installation.md) on how to manually install this rice yourself.
-
-An automatic install script will follow.
