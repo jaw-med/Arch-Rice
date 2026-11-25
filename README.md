@@ -19,47 +19,30 @@ Feel free to explore my files and reach out to me with any questions or suggesti
 
 ## Packages
 list of main programs, applications, tools and themes that I use for my rice
-| component           | resource  
+| COMPONENT           | RESOURCE  
 | :---------          | :-------  
-| window manager      | [hyprland](https://github.com/hyprwm/Hyprland)
-| color theme         | [pywal](https://github.com/dylanaraps/pywal)
-| terminal emulator   | [kitty](https://github.com/kovidgoyal/kitty)
-| shell               | [zsh](https://github.com/ohmyzsh)
-| fetch displayer     | [fastfetch](https://github.com/fastfetch-cli/fastfetch) (or [neofetch](https://github.com/dylanaraps/neofetch))
-| resource monitor    | [btop](https://github.com/aristocratos/btop)
-| bar                 | [waybar](https://github.com/Alexays/Waybar)
-| logout menu         | [wlogout](https://github.com/ArtsyMacaw/wlogout)
-| lockscreen          | [hyprlock](https://github.com/hyprwm/hyprlock)
-| idle daemon         | [hypridle](https://github.com/hyprwm/hypridle)
-| app launcher        | [wofi](https://hg.sr.ht/~scoopta/wofi)
-| wallpaper daemon    | [swww](https://github.com/LGFae/swww)
-| screenshot tool     | [grimblast](https://github.com/hyprwm/contrib/tree/main/grimblast)
-| cursor              | [Rosé Pine Dawn](https://github.com/rose-pine/cursor)
-| icons               | [Ketsa](https://github.com/zayronxio/ketsa-icon-theme) & [Reversal](https://github.com/yeyushengfan258/Reversal-icon-theme)
-| font                | [JetBrains Mono](https://github.com/JetBrains/JetBrainsMono)
-| document viewer     | [zathura](https://github.com/pwmt/zathura)
-| audio visualizer    | [cava](https://github.com/karlstav/cava)
-| terminal clock      | [tty-clock](https://github.com/xorg62/tty-clock)
-| terminal games      | [snake](https://github.com/PonasKovas/snake) & [2048](https://github.com/mevdschee/2048.c)
+| Window manager      | [hyprland](https://github.com/hyprwm/Hyprland)
+| Color theme         | [pywal](https://github.com/dylanaraps/pywal)
+| Terminal emulator   | [kitty](https://github.com/kovidgoyal/kitty)
+| Shell               | [zsh](https://github.com/ohmyzsh)
+| Fetch displayer     | [fastfetch](https://github.com/fastfetch-cli/fastfetch)
+| Resource monitor    | [btop](https://github.com/aristocratos/btop)
+| Bar                 | [waybar](https://github.com/Alexays/Waybar)
+| Logout menu         | [wlogout](https://github.com/ArtsyMacaw/wlogout)
+| Lockscreen          | [hyprlock](https://github.com/hyprwm/hyprlock)
+| Idle daemon         | [hypridle](https://github.com/hyprwm/hypridle)
+| App launcher        | [wofi](https://hg.sr.ht/~scoopta/wofi)
+| Wallpaper daemon    | [swww](https://github.com/LGFae/swww)
+| Screenshot tool     | [grimblast](https://github.com/hyprwm/contrib/tree/main/grimblast)
+| Cursor              | [Rosé Pine Dawn](https://github.com/rose-pine/cursor)
+| Icons               | [Ketsa](https://github.com/zayronxio/ketsa-icon-theme) & [Reversal](https://github.com/yeyushengfan258/Reversal-icon-theme)
+| Font                | [JetBrains Mono](https://github.com/JetBrains/JetBrainsMono)
+| Document viewer     | [zathura](https://github.com/pwmt/zathura)
+| Audio visualizer    | [cava](https://github.com/karlstav/cava)
+| Terminal clock      | [tty-clock](https://github.com/xorg62/tty-clock)
+| Terminal games      | [snake](https://github.com/PonasKovas/snake) & [2048](https://github.com/mevdschee/2048.c)
 
 <details style="margin-bottom: 20px;">
-<summary>plans... </summary>
-
-...to improve the rice. 
-
-I intend to implement the following tools in the (near) future:<br/>
-
-| component           | resource  
-| :---------          | :-------  
-| login menu          | [sddm](https://github.com/sddm/sddm) 
-| notifications daemon | [dunst](https://github.com/dunst-project/dunst)
-| firefox startpage    | [firefoxCSS](https://github.com/Aris-t2/CustomCSSforFx) 
-| widgets             | [ags](https://github.com/Aylur/ags) or [eww](https://github.com/elkowar/eww)
-| text/code editor    | [neovim](https://neovim.io/) and [code-oss](https://github.com/microsoft/vscode)
-| typing test tool    | [tt](https://github.com/lemnos/tt) or [monk-minl](https://github.com/shikhar13012001/monk-minal)
-
-Thanks to many positive reactions, I also plan to write an automatic installation script for my rice. 
-
 </details>
 
 ## Showcase
