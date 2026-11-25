@@ -1,0 +1,16 @@
+*.bak
+*.swp
+*~
+.DS_Store
+*.pem
+*.key
+id_rsa*
+id_ed25519*
+.env
+*secret*
+*token*
+*credentials*
+.zsh_history
+.bash_history
+.zcompdump*
+.cache/
