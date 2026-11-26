@@ -8,7 +8,7 @@ hl.env("HYPRCURSOR_SIZE", "24")
 -- Monitor
 hl.monitor({
     output   = "",
-    mode     = "1920x1080@144",
+    mode     = "1920x1200@144",
     position = "auto",
     scale    = 1,
 })
